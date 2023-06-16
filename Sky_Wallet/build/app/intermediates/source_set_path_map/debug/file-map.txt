@@ -1,0 +1,37 @@
+com.example.skywallet.app-lifecycle-livedata-2.6.1-0 C:\Users\ASUS\.gradle\caches\transforms-3\03cf45ed6480528a3dcdee02cd457604\transformed\lifecycle-livedata-2.6.1\res
+com.example.skywallet.app-jetified-startup-runtime-1.1.1-1 C:\Users\ASUS\.gradle\caches\transforms-3\1300e9d89d595b23f8cbc83655418c32\transformed\jetified-startup-runtime-1.1.1\res
+com.example.skywallet.app-jetified-window-java-1.0.0-beta04-2 C:\Users\ASUS\.gradle\caches\transforms-3\1f3a48307cb4d4f3c4b4017790727bb7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.skywallet.app-lifecycle-viewmodel-2.6.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\298351517af03f843feaf2003c3adea0\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.skywallet.app-jetified-play-services-basement-18.2.0-4 C:\Users\ASUS\.gradle\caches\transforms-3\302dd69f9498c12e6b4c692febca8b47\transformed\jetified-play-services-basement-18.2.0\res
+com.example.skywallet.app-jetified-savedstate-1.2.1-5 C:\Users\ASUS\.gradle\caches\transforms-3\34ade4d2fe5adc01ae1af36f65ad763a\transformed\jetified-savedstate-1.2.1\res
+com.example.skywallet.app-jetified-play-services-base-18.0.1-6 C:\Users\ASUS\.gradle\caches\transforms-3\368a4037b02248129f74ca4d516f0d62\transformed\jetified-play-services-base-18.0.1\res
+com.example.skywallet.app-core-runtime-2.2.0-7 C:\Users\ASUS\.gradle\caches\transforms-3\4af4517b42e790439322a18f4761a6e9\transformed\core-runtime-2.2.0\res
+com.example.skywallet.app-jetified-play-services-auth-20.5.0-8 C:\Users\ASUS\.gradle\caches\transforms-3\4f34c3e78662bc1caf1054a6b0e9289d\transformed\jetified-play-services-auth-20.5.0\res
+com.example.skywallet.app-browser-1.4.0-9 C:\Users\ASUS\.gradle\caches\transforms-3\7e8b4159ca96c95ee86a44bafac07aa1\transformed\browser-1.4.0\res
+com.example.skywallet.app-jetified-activity-1.7.0-10 C:\Users\ASUS\.gradle\caches\transforms-3\8a0754a91617c43c719d9afe6256f7ed\transformed\jetified-activity-1.7.0\res
+com.example.skywallet.app-jetified-core-ktx-1.9.0-11 C:\Users\ASUS\.gradle\caches\transforms-3\912e37fd9d338c3159a0bbd0578d961f\transformed\jetified-core-ktx-1.9.0\res
+com.example.skywallet.app-core-1.9.0-12 C:\Users\ASUS\.gradle\caches\transforms-3\b38c34b8d270fdaa22db721f1b0cd6c1\transformed\core-1.9.0\res
+com.example.skywallet.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-13 C:\Users\ASUS\.gradle\caches\transforms-3\b718610d95d651cc1cfaa8147a901c51\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.skywallet.app-jetified-profileinstaller-1.3.0-14 C:\Users\ASUS\.gradle\caches\transforms-3\c1c9ee43cfdebada116b3e3297a4269d\transformed\jetified-profileinstaller-1.3.0\res
+com.example.skywallet.app-lifecycle-livedata-core-2.6.1-15 C:\Users\ASUS\.gradle\caches\transforms-3\e382affd9e9f909309fcf58d34c7bc95\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.skywallet.app-lifecycle-runtime-2.6.1-16 C:\Users\ASUS\.gradle\caches\transforms-3\e42760af7ca07c739a61ee700a2ff86f\transformed\lifecycle-runtime-2.6.1\res
+com.example.skywallet.app-jetified-annotation-experimental-1.3.0-17 C:\Users\ASUS\.gradle\caches\transforms-3\e4bfe0fe084bf4e4f7f0c45c63889d61\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.skywallet.app-jetified-window-1.0.0-beta04-18 C:\Users\ASUS\.gradle\caches\transforms-3\e6f6f813fd598259b501b01e0fa4ed75\transformed\jetified-window-1.0.0-beta04\res
+com.example.skywallet.app-jetified-firebase-common-20.3.2-19 C:\Users\ASUS\.gradle\caches\transforms-3\e6fd0c4af285696d68671e173d4cdace\transformed\jetified-firebase-common-20.3.2\res
+com.example.skywallet.app-debug-20 E:\folder new sky wallet\Sky_Wallet\android\app\src\debug\res
+com.example.skywallet.app-main-21 E:\folder new sky wallet\Sky_Wallet\android\app\src\main\res
+com.example.skywallet.app-google-services-22 E:\folder new sky wallet\Sky_Wallet\build\app\generated\res\google-services\debug
+com.example.skywallet.app-pngs-23 E:\folder new sky wallet\Sky_Wallet\build\app\generated\res\pngs\debug
+com.example.skywallet.app-resValues-24 E:\folder new sky wallet\Sky_Wallet\build\app\generated\res\resValues\debug
+com.example.skywallet.app-rs-25 E:\folder new sky wallet\Sky_Wallet\build\app\generated\res\rs\debug
+com.example.skywallet.app-mergeDebugResources-26 E:\folder new sky wallet\Sky_Wallet\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.skywallet.app-mergeDebugResources-27 E:\folder new sky wallet\Sky_Wallet\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.skywallet.app-merged_res-28 E:\folder new sky wallet\Sky_Wallet\build\app\intermediates\merged_res\debug
+com.example.skywallet.app-packaged_res-29 E:\folder new sky wallet\Sky_Wallet\build\firebase_auth\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-30 E:\folder new sky wallet\Sky_Wallet\build\firebase_core\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-31 E:\folder new sky wallet\Sky_Wallet\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-32 E:\folder new sky wallet\Sky_Wallet\build\fluttertoast\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-33 E:\folder new sky wallet\Sky_Wallet\build\google_sign_in_android\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-34 E:\folder new sky wallet\Sky_Wallet\build\image_picker_android\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-35 E:\folder new sky wallet\Sky_Wallet\build\path_provider_android\intermediates\packaged_res\debug
+com.example.skywallet.app-packaged_res-36 E:\folder new sky wallet\Sky_Wallet\build\shared_preferences_android\intermediates\packaged_res\debug

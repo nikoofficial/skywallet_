@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244685465155",
+    "project_id": "skywallet-d5eb8",
+    "storage_bucket": "skywallet-d5eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244685465155:android:2db1f66a6970bd407656f6",
+        "android_client_info": {
+          "package_name": "com.example.skywallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYPPIttm5-ITGFxIfjFvXx0l23IjHe4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
